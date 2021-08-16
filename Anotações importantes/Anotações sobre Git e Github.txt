@@ -1,2 +1,7 @@
-anotações importantes
-links e tudo mais
+Anotações de alguns comandos que foram utilizados no desafio:
+git clone (+ link do github) : Baixar arquivo do repositório do Git Hub
+cd (+repositorio) : Acessar o repositório local
+git status
+git add . :Adicionar os arquivos locais nos controles de versões local
+git commit -m "mensagem/comentário do commit" :adiconar o commit local
+git push origin main :enviar os comites locais para a nuvem do GitHub
